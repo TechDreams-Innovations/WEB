@@ -1,4 +1,4 @@
-# TechDreams Innovations Policy
+# TechDreams Innovations Security Policy
 
 1. We will never let your personal details be revealed to anybody or by anybody.
 2. All of your creations are copyrighted to you, and are in no means to be copied by anyone, including the company.
